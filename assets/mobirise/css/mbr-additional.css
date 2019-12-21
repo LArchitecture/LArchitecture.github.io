@@ -3109,6 +3109,30 @@ section.lazy-placeholder:after {
 .cid-rLiGo4ugA3 {
   background-image: url("../../../assets/images/schaubild-altes-mueum-952x673.png");
 }
+.cid-rLiGo4ugA3 .mbr-text,
+.cid-rLiGo4ugA3 .mbr-section-btn {
+  color: #767676;
+  text-align: left;
+}
+.cid-rLiI1nIZTa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rLiI1nIZTa .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+.cid-rLiI1nIZTa div.b {
+  padding-top: 2rem;
+}
+.cid-rLiI1nIZTa H2 {
+  color: #1625af;
+}
+.cid-rLiI1nIZTa H5 {
+  color: #f2cd1f;
+}
 .cid-rLiGlh1amU .google-map {
   height: 25rem;
   position: relative;
@@ -3212,19 +3236,6 @@ section.lazy-placeholder:after {
 }
 .cid-rLiDl5rCSX .media-container-row .row-copirayt p {
   width: 100%;
-}
-.cid-rLiI1nIZTa {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rLiI1nIZTa .mbr-text {
-  color: #767676;
-  margin: 0;
-  padding-top: 1.5rem;
-}
-.cid-rLiI1nIZTa div.b {
-  padding-top: 2rem;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
