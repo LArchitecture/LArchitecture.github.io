@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1269,6 +1269,9 @@
             },
             "P": {
               "color": "#767676"
+            },
+            "H1": {
+              "color": "#c1c1c1"
             }
           },
           "_name": "header16",
